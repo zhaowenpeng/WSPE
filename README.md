@@ -28,7 +28,7 @@ APEX (Annotation-free Parcel EXtraction) is designed to extract agricultural fie
 ```bash
 # Clone the repository
 git clone https://github.com/zhaowenpeng/WSPE.git
-cd AECE
+cd WSPE
 ```
 
 ## Datasets
